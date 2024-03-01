@@ -1,0 +1,19 @@
+.employment-heading {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+}
+.filters-list-container {
+  list-style-type: none;
+  padding: 0px;
+}
+.filter-item-container {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-label {
+  color: #f1f5f9;
+  font-size: 10px;
+  font-weight: 400;
+}
